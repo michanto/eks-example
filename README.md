@@ -1,3 +1,3 @@
 # eks-example
 Example project
-Update 7
+Update 8
